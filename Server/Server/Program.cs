@@ -1,4 +1,8 @@
-﻿using System;
+﻿// MIT License
+
+// Copyright (c) 2020 Bryce Tuton
+
+using System;
 using System.IO;
 using System.Text;
 using System.Text.Json;
